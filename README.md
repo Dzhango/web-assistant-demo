@@ -1,6 +1,6 @@
 # bio-web-assistant-demo
 
-[View Page](https://dzhango.github.io/web-assistant-demo/index.html)
+[View Page](https://dzhango.github.io/web-assistant-demo/index.min.html)
 
 ## Here's the lighthouse report of the demo provided:
 
