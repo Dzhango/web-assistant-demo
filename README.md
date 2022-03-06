@@ -9,5 +9,5 @@
 
 ## Improved performance after some semantic fixes, styling changes, and disabled font.
 
-<img src="ighthouse-improved.png" alt="lighthouse-improved" width="400"/>
+<img src="lighthouse-improved.png" alt="lighthouse-improved" width="400"/>
 <!-- ![Lighhouse-improved](lighthouse-improved.png) -->
