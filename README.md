@@ -4,8 +4,10 @@
 
 ## Here's the lighthouse report of the demo provided:
 
-![Lighhouse](lighthouse.png)
+<img src="lighthouse.png" alt="lighthouse" width="400"/>
+<!-- ![Lighhouse](lighthouse.png) -->
 
 ## Improved performance after some semantic fixes, styling changes, and disabled font.
 
-![Lighhouse-improved](lighthouse-improved.png)
+<img src="ighthouse-improved.png" alt="lighthouse-improved" width="400"/>
+<!-- ![Lighhouse-improved](lighthouse-improved.png) -->
